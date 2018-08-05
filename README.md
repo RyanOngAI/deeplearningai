@@ -1,4 +1,2 @@
 # deeplearningai
-My codes and notes for Coursera Deep Learning Specialisation. Objective is to showcase what I have learned about deep learning and what I can build.
-
-Testing the build! Test one more time!
+I started this repository to document my learning journey of the Coursera Deep Learning Specialisation by Andrew Ng. This will include all my codes and notes!
