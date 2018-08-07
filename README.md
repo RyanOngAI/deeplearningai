@@ -3,4 +3,4 @@ I started this repository to document my learning journey of the Coursera Deep L
 
 Current Status:
 
-Course 1 - Neural Networks and Deep Learning - Week 3
+Course 1 - Neural Networks and Deep Learning - Week 4
