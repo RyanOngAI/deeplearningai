@@ -3,4 +3,5 @@ I started this repository to document my learning journey of the Coursera Deep L
 
 Current Status:
 
-Course 1 - Neural Networks and Deep Learning - Week 4
+Course 2 - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+Prev - Week 3
